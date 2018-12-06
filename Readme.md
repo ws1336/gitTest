@@ -38,7 +38,7 @@ ________
 
 [![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")](http://baidu.com)
 
-
+https://github.com/ws1336/SerialOscillograph/releases/download/Beta-v1.0/SerialOscillograph_win32.zip
 
 ```Java
 public static void main(String[] args){}

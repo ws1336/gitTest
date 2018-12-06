@@ -44,8 +44,7 @@ ________
 
 ## 获取windows版本可执行程序
 
----|---
-最新版本|[![baidu](https://github.com/ws1336/gitTest/blob/master/xiazai.jpg?raw=true "下载链接")](https://github.com/ws1336/SerialOscillograph/releases/download/Beta-v1.0/SerialOscillograph_win32.zip)
+* [![baidu](https://github.com/ws1336/gitTest/blob/master/xiazai.jpg?raw=true "下载链接")](https://github.com/ws1336/SerialOscillograph/releases/download/Beta-v1.0/SerialOscillograph_win32.zip)
 
 ```Java
 public static void main(String[] args){}
